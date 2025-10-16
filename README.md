@@ -1,19 +1,48 @@
-# ✈️ HangarFlow
+# ✈️ HangarFlow – Aircraft Maintenance Alert System
 
-## 🚀 Mission
-HangarFlow is an automation framework for airline engineering operations. It uses free tools like n8n, Google Sheets, and AI agents to reduce manual workload, improve compliance, and optimize cost.
+**HangarFlow** is a lightweight, automation-driven workflow built in [n8n](https://n8n.io) that monitors aircraft flight hours and sends real-time maintenance alerts via Gmail. Designed for airline engineering teams, it showcases how low-code tools can streamline aviation operations.
 
-## 🛠️ Tools Used
-- n8n (Cloud)
-- Google Sheets
-- Telegram
-- GitHub Pages
-- Agentic AI / Huginn
+## 🔧 What It Does
 
-## 📦 Workflow 1: Maintenance Reminder
-- Trigger: Flight hours exceed 500
-- Action: Telegram alert to maintenance team
-- Log: Status updated in Google Sheets
+- Reads aircraft data from Google Sheets
+- Checks flight hours against inspection thresholds
+- Sends automated email alerts when maintenance is due
+
+## 🧠 Why It Matters
+
+HangarFlow demonstrates how aviation engineering can be enhanced with open-source automation. It’s ideal for:
+- Airline maintenance teams
+- Aviation tech startups
+- Recruiters evaluating automation leadership
+
+## 🚀 Technologies Used
+
+- [n8n](https://n8n.io) – Workflow automation
+- Google Sheets – Aircraft data source
+- Gmail – Alert delivery
+- JSON logic – Conditional triggers
+
+## 📬 Sample Alert
+Aircraft B737-ABC has crossed 500 flight hours. Please schedule inspection.
+## 📁 Files Included
+## 📊 Workflow Diagram
+<p align="center">
+  <img src="hangarflow-diagram.png" width="600" />
+</p>
+![HangarFlow Workflow](hangarflow-diagram.png)
+- `HangarFlow-Maintenance-Reminder.json` – Ready-to-import n8n workflow
+- Screenshots and visuals (coming soon)
+
+## 👨‍💻 Author
+
+**Syed Muhammad Amjad**  
+Founder of ProAoG | Aviation Automation Specialist  
+[LinkedIn](https://www.linkedin.com/in/syed-muhammad-amjad) | [GitHub](https://github.com/yourusername)
+
+---
+
+Want to automate your airline operations? Fork this repo and start flying smarter.
+
 
 ## 🌐 Live Documentation
 Visit [GitHub Pages](https://syed-amjad65.github.io/HangarFlow) for full project details.
