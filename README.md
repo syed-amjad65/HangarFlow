@@ -34,7 +34,7 @@ Founder of ProAog | Aviation Automation Specialist/Data scientist (Airlines Engi
 
 ---
 
-*© 2025 AOG-Neural AI System. All rights reserved. Commercial licensing available.*
+*© 2025 Hangerflow. All rights reserved. Commercial licensing available.*
 
 **🚀 Eliminate ProAOG incidents. Optimize operations. Maximize profits.**
 #Update README with comprehensive project documentation
