@@ -1,4 +1,5 @@
-# <img width="400" height="253" alt="Hanger flow logo n8n 15 10 2025" src="https://github.com/user-attachments/assets/851b9f49-94e9-46a7-8a83-6a246f7e9e55" />HangarFlow – Aircraft Maintenance Alert System
+# <img width="300" height="353" alt="Hanger flow logo n8n 15 10 2025" src="https://github.com/user-attachments/assets/851b9f49-94e9-46a7-8a83-6a246f7e9e55" />
+HangarFlow – Aircraft Maintenance Alert System
 
 HangarFlow – Aircraft Maintenance Alert System
 
