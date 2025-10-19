@@ -3,7 +3,12 @@
 HangarFlow – Aircraft Maintenance Alert System
 
 
-**HangarFlow** is a lightweight, automation-driven workflow built in [n8n](https://n8n.io) that monitors aircraft flight hours and sends real-time maintenance alerts via Gmail. Designed for airline engineering teams, it showcases how low-code tools can streamline aviation operations.
+**HangarFlow** is a lightweight, automation-driven workflow built in [n8n](https://n8n.io) that monitors aircraft flight hours and sends real-time maintenance alerts via Gmail.
+
+syed.emirates686@gmail.com
+18 Oct 2025, 12:07 Aircraft B787-XYZ has crossed 500 flight hours. Please schedule inspection.
+
+Designed for airline engineering teams, it showcases how low-code tools can streamline aviation operations.
 
 ## 🔧 What It Does
 
